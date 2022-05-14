@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paolahuyo/Task-List-React/static/css/main.322e8abb.css",
+    "main.js": "/paolahuyo/Task-List-React/static/js/main.f794e788.js",
+    "static/js/787.87ee556e.chunk.js": "/paolahuyo/Task-List-React/static/js/787.87ee556e.chunk.js",
+    "index.html": "/paolahuyo/Task-List-React/index.html",
+    "main.322e8abb.css.map": "/paolahuyo/Task-List-React/static/css/main.322e8abb.css.map",
+    "main.f794e788.js.map": "/paolahuyo/Task-List-React/static/js/main.f794e788.js.map",
+    "787.87ee556e.chunk.js.map": "/paolahuyo/Task-List-React/static/js/787.87ee556e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322e8abb.css",
+    "static/js/main.f794e788.js"
+  ]
+}
